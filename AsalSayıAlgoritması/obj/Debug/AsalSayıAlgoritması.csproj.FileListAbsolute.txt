@@ -1,0 +1,7 @@
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\bin\Debug\AsalSayıAlgoritması.exe.config
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\bin\Debug\AsalSayıAlgoritması.exe
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\bin\Debug\AsalSayıAlgoritması.pdb
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\obj\Debug\AsalSayıAlgoritması.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\obj\Debug\AsalSayıAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\obj\Debug\AsalSayıAlgoritması.exe
+C:\Users\musta\source\repos\AsalSayıAlgoritması\AsalSayıAlgoritması\obj\Debug\AsalSayıAlgoritması.pdb
